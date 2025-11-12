@@ -1,7 +1,7 @@
 <h1 align="center">Hai hai! 👋 ^v^, I'm James Daniel M. Verano ^v^</h1>
 <h3 align="center">A Dedicated, Determined and Hardworking student! ^v^</h3>
 
-![Image](https://github.com/user-attachments/assets/240e80c7-3e71-4d01-93f1-15989b637e7b)
+<img>![Image](https://github.com/user-attachments/assets/240e80c7-3e71-4d01-93f1-15989b637e7b)</img>
 
 - ⚡ Fun fact **Ibang bata nga walang makain ~ Coach Jeymz**
 
